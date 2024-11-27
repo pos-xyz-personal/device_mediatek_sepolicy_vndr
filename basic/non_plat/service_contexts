@@ -2,3 +2,6 @@ android.hardware.drm.IDrmFactory/widevine u:object_r:hal_drm_service:s0
 vendor.mediatek.hardware.apuware.utils.IApuwareUtils/default u:object_r:hal_neuralnetworks_service:s0
 vendor.mediatek.hardware.mmagent.IMMAgent/default u:object_r:mtk_hal_mmagent_service:s0
 vendor.mediatek.hardware.netdagent.INetdagents/default u:object_r:netdagent_service:s0
+
+# NFC
+vendor.nxp.nxpnfc_aidl.INxpNfc/default u:object_r:hal_nfc_service:s0
